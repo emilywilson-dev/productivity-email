@@ -12,6 +12,8 @@ Responsive email template designed for cross-client compatibility
 
 ## Screenshots and video
 [Apple Mail Video Demo](https://raw.githubusercontent.com/emilywilson-dev/productivity-email-live-images/main/apple-mail-mobile.MOV)
+
+
 ![Gmail Dark Mode](email-screenshots/gmail-dark-mode.png)
 ![Outlook](email-screenshots/outlook-screenshot1.png)
 ![Outlook](email-screenshots/outlook-screenshot2.png)
