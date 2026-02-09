@@ -23,7 +23,7 @@ Watch video demo - [Apple Mail Video Demo](https://raw.githubusercontent.com/emi
 
 ### Option 1: View live in your browser (GitHub Pages)
 Once GitHub Pages is enabled (see below), open:
-https://https://emilywilson-dev.github.io/skincare-newsletter-email/
+https://emilywilson-dev.github.io/productivity-email/
 
 ### Option 2: View locally
 1. Click **Code → Download ZIP**  
